@@ -1,4 +1,4 @@
-# URL Based Phishing Detection using machine Learning
+# URL Based Phishing Detection Using Machine Learning
 URL Based Phishing Detection using machine Learning with Code, Documents And Video Tutrial
 
 ![Phishing URL](https://github.com/user-attachments/assets/e5ddcf39-2d33-431f-ad53-95573810769f)
